@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on reactjs<br>👯 I’m looking to collaborate on frontend projects <br>🤝 I’m looking for help with full stack web development projects<br>🌱 I’m currently learning frameworks like reactjs <br><br>
+🔭 I’m currently working on reactjs<br>👯 I’m looking to collaborate on frontend projects <br>🤝 I’m looking for help with full stack web development projects<br>🌱 I’m currently learning frameworks like reactjs , vitejs , nextjs<br><br>
 
 
 ## 🌐 Socials:
